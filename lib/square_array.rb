@@ -1,3 +1,7 @@
 def square_array(array)
-  # your code here
+  new numbers = [1,2,3]
+  
+  square_array(1,4,9)
+  
+  #=> 1** = 1
 end
